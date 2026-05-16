@@ -53,7 +53,13 @@ entry/src/main/ets/
 
 ## 截图
 
-> 关键页面截图待补充（首页、AI 聊天、模板市场、代码预览、项目管理）
+| 首页 | AI 对话生成 | 模板市场 |
+|:---:|:---:|:---:|
+| ![首页](screenshots/home.png) | ![AI对话](screenshots/ai-chat.png) | ![模板市场](screenshots/template-market.png) |
+
+| 代码查看 | 实时预览 | 项目管理 |
+|:---:|:---:|:---:|
+| ![代码](screenshots/code-preview.png) | ![预览](screenshots/preview.png) | ![项目](screenshots/projects.png) |
 
 ## 声明
 
