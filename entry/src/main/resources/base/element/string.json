@@ -1,0 +1,9 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "HarmonyCraft entry module" },
+    { "name": "ability_desc", "value": "HarmonyCraft Ability" },
+    { "name": "ability_label", "value": "HarmonyCraft" },
+    { "name": "form_label", "value": "AI 卡片" },
+    { "name": "form_desc", "value": "HarmonyCraft AI 生成卡片" }
+  ]
+}

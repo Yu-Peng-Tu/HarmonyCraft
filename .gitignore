@@ -1,0 +1,7 @@
+.hvigor/
+.idea/
+entry/.preview/
+entry/build/
+build/
+*.log
+.DS_Store

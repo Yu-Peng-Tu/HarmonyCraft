@@ -1,0 +1,16 @@
+{
+  "forms": [
+    {
+      "name": "HarmonyCraftCard",
+      "displayName": "AI 卡片",
+      "description": "HarmonyCraft AI 生成卡片",
+      "src": "./ets/services/FormCard.ets",
+      "uiSyntax": "arkts",
+      "colorMode": "auto",
+      "isDefault": true,
+      "updateEnabled": false,
+      "defaultDimension": "2*2",
+      "supportDimensions": ["1*2", "2*2", "2*4"]
+    }
+  ]
+}

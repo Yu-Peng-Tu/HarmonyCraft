@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ChatPage",
+    "pages/CodePreview",
+    "pages/ProjectManage",
+    "pages/TemplateMarket",
+    "pages/CardEditor",
+    "pages/Profile",
+    "pages/ProjectDetail",
+    "pages/SettingPage"
+  ]
+}
